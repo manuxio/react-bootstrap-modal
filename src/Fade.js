@@ -1,5 +1,5 @@
 import React from 'react';
-import Transition from 'react-overlays/lib/Transition';
+import Transition from 'react-transition-group/Transition';
 
 class Fade extends React.Component {
 
