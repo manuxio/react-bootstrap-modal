@@ -78,6 +78,7 @@
     "webpack-dev-server": "^1.12.1"
   },
   "dependencies": {
+    "react-transition-group": "^2.2.0",
     "classnames": "^2.2.3",
     "dom-helpers": "^2.2.4",
     "prop-types": "^15.5.8",
